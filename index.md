@@ -1,9 +1,12 @@
 ---
-title: Zonerocker
+title: Simple row counter
 ---
 
-# Zonerocker
+# Simple row counter
 
-Legal pages for Simple row counter:
+Simple row counter is an Android app for knitting and crochet row counters.
 
-- [Simple row counter legal pages](https://zonerocker.github.io/simplerowcounter-legal/)
+Legal pages:
+
+- [Privacy Policy](/privacy-policy.html)
+- [Terms of Service](/terms-of-service.html)
