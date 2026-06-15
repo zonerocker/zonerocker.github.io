@@ -31,8 +31,8 @@ store payment card details.
 Google Drive sync is optional. The app asks for the Google Drive app data permission only when
 the user turns sync on.
 
-The app uses this permission only to read, create, update, and delete its own sync data in the
-user's Google Drive app data folder. The app does not access the user's visible Drive files.
+The app uses this permission only to read, create, and update its own sync data in the user's
+Google Drive app data folder. The app does not access the user's visible Drive files.
 
 The app does not store Google passwords. Google Play Services manages the Google authorization
 tokens.
