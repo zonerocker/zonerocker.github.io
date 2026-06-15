@@ -2,7 +2,7 @@
 title: Terms of Service
 ---
 
-# Terms Of Service
+# Terms of Service
 
 Last updated: June 15, 2026
 
@@ -22,14 +22,17 @@ Users can turn sync off or remove the app's Google access from their Google Acco
 
 ## Subscription
 
-Simple row counter offers a free trial period, after which continued use requires an
-auto-renewing subscription, available as a monthly or yearly plan.
+Simple row counter offers a 7-day free trial managed by Google Play. After the trial, continued
+use requires an auto-renewing subscription, available as a monthly or yearly plan.
 
 Subscriptions are billed through your Google Play account. Unless cancelled at least 24 hours
 before the end of the current period, the subscription renews automatically at the then-current
 price. You can view, manage, or cancel your subscription, and turn off auto-renewal, in your
 Google Play account settings. Prices may vary by country.
 
+If you cancel, access continues until the end of the current trial or billing period unless
+Google Play states otherwise.
+
 ## Contact
 
-For questions, contact guigdeb@gmail.com.
+For questions, contact guigdeb at gmail dot com.
